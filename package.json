@@ -1,0 +1,22 @@
+{
+  "name": "clase03_1942487",
+  "version": "1.0.0",
+  "description": "Leonardo Cienfuegos Pecina  1942487\r Clase Ordinaria de Aplicaciones Moviles\r Grupo 033",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aplicaciones-mobiles-33/Clase03_1942487.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aplicaciones-mobiles-33/Clase03_1942487/issues"
+  },
+  "homepage": "https://github.com/aplicaciones-mobiles-33/Clase03_1942487#readme",
+  "dependencies": {
+    "http-server": "^13.0.0"
+  }
+}
